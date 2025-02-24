@@ -1,4 +1,5 @@
-
+## About
+A bunch of cool LaTeX Tikz diagrams I found and compiled into a single repo for personal use.
 ## Tikz1
 
 | [**`random.tex`**](Tikz1/data/random/random.tex)              | [**`network.tex`**](Tikz1/data/network/network.tex)           |
