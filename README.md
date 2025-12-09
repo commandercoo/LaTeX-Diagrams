@@ -1,7 +1,7 @@
 ## About
 A bunch of cool LaTeX Tikz diagrams that I've used and found for a single repo for personal use. Lots of emphasis on computer science and physics but there are diagrams for other subjects. 
 
-Includes image example and source code. Click on the link below each image on the README to access the source code. 
+Includes image example and source code. Click on the link ABOVE each image on the README to access the source code. 
 
 | [**`random.tex`**](Tikz1/data/random/random.tex)              | [**`network.tex`**](Tikz1/data/network/network.tex)           |
 | :-----------------------------------------------------: | :-----------------------------------------------------: |
