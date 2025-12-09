@@ -1,6 +1,7 @@
 ## About
-A bunch of cool LaTeX Tikz diagrams I found and compiled into a single repo for personal use.
-## Tikz1
+A bunch of cool LaTeX Tikz diagrams that I've used and found for a single repo for personal use. Lots of emphasis on computer science and physics but there are diagrams for other subjects. 
+
+Includes image example and source code. Click on the link below each image on the README to access the source code. 
 
 | [**`random.tex`**](Tikz1/data/random/random.tex)              | [**`network.tex`**](Tikz1/data/network/network.tex)           |
 | :-----------------------------------------------------: | :-----------------------------------------------------: |
@@ -24,8 +25,6 @@ A bunch of cool LaTeX Tikz diagrams I found and compiled into a single repo for 
 | [**`oblique.tex`**](Tikz1/data/oblique/oblique.tex)           |                                                               |
 | ![oblique](Tikz1/data/oblique/oblique.jpg)                    |                                                               |
      
-## Tikz2
-
 | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
 | :----------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
 |                                      [`autoencoder`](Tikz2/assets/autoencoder/autoencoder.tex)                                      |                                           [`aviary`](Tikz2/assets/aviary/aviary.tex)                                           |
@@ -140,9 +139,6 @@ A bunch of cool LaTeX Tikz diagrams I found and compiled into a single repo for 
 | ![`wetterich-equation.png`](Tikz2/assets/wetterich-equation/wetterich-equation.png) | ![`wyckoff-positions.png`](Tikz2/assets/wyckoff-positions/wyckoff-positions.png) |
 | [`zt-vs-n`](Tikz2/assets/zt-vs-n/zt-vs-n.tex) | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
 | ![`zt-vs-n.png`](Tikz2/assets/zt-vs-n/zt-vs-n.png) | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
-
-
-## Tikz3
 
 [`time-biographical-cornerstones-arr+timeline+style+learn+text.tex`](Tikz3/assets/time-biographical-cornerstones-arr+timeline+style+learn+text/time-biographical-cornerstones-arr+timeline+style+learn+text.tex)
 
