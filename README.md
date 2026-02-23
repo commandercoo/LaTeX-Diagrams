@@ -3,6 +3,8 @@ A bunch of cool LaTeX Tikz diagrams that I've used and found for a single repo f
 
 Includes image example and source code. Click on the link ABOVE each image on the README to access the source code. 
 
+Attribution is given in each of the three subdirectories. 
+
 | [**`random.tex`**](Tikz1/data/random/random.tex)              | [**`network.tex`**](Tikz1/data/network/network.tex)           |
 | :-----------------------------------------------------: | :-----------------------------------------------------: |
 | ![random](Tikz1/data/random/random.jpg)                       | ![network](Tikz1/data/network/network.jpg)                    |
